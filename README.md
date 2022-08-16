@@ -29,7 +29,7 @@ La deschiderea aplicației, se lansează în execuție fereastra de Login, unde 
 Odată permis accesul în aplicație, se deschide fereastra principală a meniului, Home, afișând utilizatorului informațiile prioritare despre contul său, și anume: soldul curent și principalele informații de securitate despre card. Acestea inițial sunt ascunse, dar pot fi făcute vizibile apăsând butonul cu pictograma în formă de ochi. 
 
 
-Funcționalitățile puse la dispoziție utilizatorului:
+Funcționalitățile puse la dispoziție utilizatorului: <br />
 *SECȚIUNEA CARD* <br />
 
 ֍ informațiile de pe card (numărul de card, data expirării, codul de securitate etc.), alături de posibilitatea de a le ascunde sau de a le face iar vizibile prin apăsarea unui buton; <br />
