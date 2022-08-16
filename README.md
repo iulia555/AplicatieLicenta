@@ -42,16 +42,16 @@ Funcționalitățile puse la dispoziție utilizatorului: <br />
 ֍ soldul curent al contului bancar principal; <br />
 
 *SECȚIUNEA DEPOZITE* <br />
-֍ la apăsarea pe “Deposits” se deschide un pop-up care  are rolul de a înștiința utilizatorul care este scopul unui depozit la termen
-֍ la apăsarea succesivă a săgeții din dreptul secțiunii aferente depozitelor, acestea sunt afișate sau ascunse
-֍ pentru a închide un depozit, utilizatorul trebuie să gliseze pe ecran în dreptul depozitului respectiv spre stânga ca să poată face vizibilă această opțiune; este solicitat consimțământul utilizatorului printr-o întrebare de securitate afișată într-o fereastră pop-up înainte de a fi finalizată acțiunea
-֍ utilizatorul poate deschide un nou depozit de economii apăsând butonul „+”, iar când acesta este declanșat, se va deschide o fereastră cu un formular de completat; avem un câmp din care se poate alege contul, căci utilizatorul mai poate avea deschis și un cont în EURO sau o altă monedă, apoi se introduc date precum denumirea depozitului, perioada și suma, iar rata dobânzii este calculată de aplicație în funcție de suma și durata depozitului, dar doar după ce cele două au fost completate
+֍ la apăsarea pe “Deposits” se deschide un pop-up care  are rolul de a înștiința utilizatorul care este scopul unui depozit la termen <br />
+֍ la apăsarea succesivă a săgeții din dreptul secțiunii aferente depozitelor, acestea sunt afișate sau ascunse <br />
+֍ pentru a închide un depozit, utilizatorul trebuie să gliseze pe ecran în dreptul depozitului respectiv spre stânga ca să poată face vizibilă această opțiune; este solicitat consimțământul utilizatorului printr-o întrebare de securitate afișată într-o fereastră pop-up înainte de a fi finalizată acțiunea <br />
+֍ utilizatorul poate deschide un nou depozit de economii apăsând butonul „+”, iar când acesta este declanșat, se va deschide o fereastră cu un formular de completat; avem un câmp din care se poate alege contul, căci utilizatorul mai poate avea deschis și un cont în EURO sau o altă monedă, apoi se introduc date precum denumirea depozitului, perioada și suma, iar rata dobânzii este calculată de aplicație în funcție de suma și durata depozitului, dar doar după ce cele două au fost completate <br />
 
 #### TRANSACTIONS PAGE
 Fereastra Tranzacții afișează o lista completă a tranzacțiilor din istoricul salvat în baza de date, cu posibilitatea de a filtra și sorta informațiile primite după multiple criterii specifice. Inițial, sunt afișate doar tranzacțiile în interfață, dar la apăsarea celor două butoane corespunzătoare pentru sortare (se execută crescător sau descrescător, în funcție de suma de bani), respectiv filtrare (o dată calendaristică specifică, venituri/cheltuieli, facturi și, respectiv, printr-o casetă de căutare prin care pot fi regăsite toate tranzacțiile a căror denumire conține șirul de caractere căutat de utilizator), vor fi expuse două module cu mai multe butoane, alături de o casetă de căutare. Pentru a servi cât mai bine nevoilor utilizatorilor, cele două module de sortare și filtrare funcționează 100% sincronizat și concomitent, fiind posibilă selectarea mai multor filtre în același timp.
-Alte funcționalități disponibile:
-֍ La click pe o tranzacție specifică se pot vedea informații despre aceasta;
-֍ La apăsarea butonului „Extras de cont” se deschide un dialog personalizat în cadrul căruia utilizatorul setează perioada de timp dorită. În cazul în care există tranzacții efectuate în acea perioadă, ele vor listate într-un document Excel care se generează în momentul cu pricina și care este salvat mai întâi în memoria externă a telefonului. Ulterior, acest fișier Excel care conține toate informațiile extrasului de cont va fi trimis în mod automat pe emailul utilizatorului, iar dacă nu există tranzacții în perioada de timp selectată, utilizatorul va primi un mesaj de notificare.
+Alte funcționalități disponibile: <br />
+֍ La click pe o tranzacție specifică se pot vedea informații despre aceasta; <br />
+֍ La apăsarea butonului „Extras de cont” se deschide un dialog personalizat în cadrul căruia utilizatorul setează perioada de timp dorită. În cazul în care există tranzacții efectuate în acea perioadă, ele vor listate într-un document Excel care se generează în momentul cu pricina și care este salvat mai întâi în memoria externă a telefonului. Ulterior, acest fișier Excel care conține toate informațiile extrasului de cont va fi trimis în mod automat pe emailul utilizatorului, iar dacă nu există tranzacții în perioada de timp selectată, utilizatorul va primi un mesaj de notificare. <br />
 
 
 #### PAYMENTS PAGE
