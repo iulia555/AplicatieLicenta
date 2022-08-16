@@ -3,14 +3,14 @@ Proiectul de licență constă într-o aplicație de mobile banking care își p
 
 ## Prezentarea generală
 Temă -> Tema lucrării de licenţă constă într-o aplicație de mobile banking care face experiența de utilizare foarte plăcută prin prisma faptului că are o interfață atractivă, prietenoasă și, în același timp, foarte intuitivă și ușor de folosit pentru orice utilizator. <br />
-Motivație -> Motivația alegerii temei este pasiunea către domeniul financiar-economic și, totodată, conștientizarea reticenței în ceea ce privește tranziția de la fizic la sistemul aproape 100% online din România.
+Motivație -> Motivația alegerii temei este pasiunea către domeniul financiar-economic și, totodată, conștientizarea reticenței în ceea ce privește tranziția de la fizic la sistemul aproape 100% online din România. <br />
 Scop -> Aplicația dezvoltată și implementată pentru această lucrare de licenţă a fost gândită în aşa fel încât să îndeplinească anumite nevoi tocmai cu scopul de a încuraja populația să adopte mai ușor digitalizarea bankingului.
 
 ## Tehnologiile utilizate
 ֍ Mediul de dezvoltare - Android Studio
 ֍ Limbajul de programare – Java
 ֍ Baza de date - Cloud Firestore
-
+<br />
 Aplicația este dezvoltată în limbajul *Java* cu ajutorul mediului de dezvoltare *Android Studio*, și este cuplată la o baza de date NoSQL, *Cloud Firestore*, care se actualizează concomitent cu acțiunile efectuate în cadrul aplicației.
 
 
