@@ -32,8 +32,8 @@ Odată permis accesul în aplicație, se deschide fereastra principală a meniul
 Funcționalitățile puse la dispoziție utilizatorului: <br />
 
 *SECȚIUNEA CARD* <br />
-֍ informațiile de pe card (numărul de card, data expirării, codul de securitate etc.), alături de posibilitatea de a le ascunde sau de a le face iar vizibile prin apăsarea unui buton; <br />
-֍ la o apăsare scurtă pe înfățișarea cardului sunt afișate într-o fereastră de tip pop-up toate retragerile și depunerile realizate la bancomate, pe când la o apăsare mai lungă sunt afișate informațiile necesare pentru realizarea unui transfer bancar, și anume: IBAN, numele complet al posesorului, monedă și bancă, oferindu-se și posibilitatea de a le copia automat în clipboard la apăsarea unui buton specific. <br />
+֍ informațiile de pe card (numărul de card, data expirării, codul de securitate etc.), alături de posibilitatea de a le ascunde sau de a le face iar vizibile prin apăsarea unui buton <br />
+֍ la o apăsare scurtă pe înfățișarea cardului sunt afișate într-o fereastră de tip pop-up toate retragerile și depunerile realizate la bancomate, pe când la o apăsare mai lungă sunt afișate informațiile necesare pentru realizarea unui transfer bancar, și anume: IBAN, numele complet al posesorului, monedă și bancă, oferindu-se și posibilitatea de a le copia automat în clipboard la apăsarea unui buton specific <br />
 ֍  o altă serie de acțiuni destinate cardului: <br />
 1.	blocarea, respectiv deblocarea - atunci când cardul este blocat, pictograma în formă de ochi este schimbată cu o imagine care sugerează acest lucru (cardul cu lăcățel), și, mai mult decât atât, nu se va mai putea accesa fereastra destinată inițierii unui transfer, întrucât, în cazul în care o persoană neautorizată reușește să acceseze contul utilizatorului, aceasta să nu poată efectua transferuri, adică să nu aibă posibilitatea de a trimite o suma de bani din contul acestuia într-un alt cont <br />
 2.	vizualizarea PIN-ului direct din aplicație – la apăsarea pe “View PIN” se deschide o altă fereastră în care este solicitat CVV-ul, se introduce, se apăsă butonul și afișează PIN-ul <br />
