@@ -30,8 +30,8 @@ Odată permis accesul în aplicație, se deschide fereastra principală a meniul
 
 
 Funcționalitățile puse la dispoziție utilizatorului: <br />
-*SECȚIUNEA CARD* <br />
 
+*SECȚIUNEA CARD* <br />
 ֍ informațiile de pe card (numărul de card, data expirării, codul de securitate etc.), alături de posibilitatea de a le ascunde sau de a le face iar vizibile prin apăsarea unui buton; <br />
 ֍ la o apăsare scurtă pe înfățișarea cardului sunt afișate într-o fereastră de tip pop-up toate retragerile și depunerile realizate la bancomate, pe când la o apăsare mai lungă sunt afișate informațiile necesare pentru realizarea unui transfer bancar, și anume: IBAN, numele complet al posesorului, monedă și bancă, oferindu-se și posibilitatea de a le copia automat în clipboard la apăsarea unui buton specific. <br />
 ֍  o altă serie de acțiuni destinate cardului: <br />
