@@ -12,7 +12,7 @@ Scop -> Aplicația dezvoltată și implementată pentru această lucrare de lice
 
 ## Tehnologiile utilizate
 ֍ Mediul de dezvoltare - Android Studio
-֍ Limbajul de programare – Java
+֍ Limbajul de programare – **Java**
 ֍ Baza de date - Cloud Firestore
 
 
