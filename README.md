@@ -16,7 +16,7 @@ Scop -> Aplicația dezvoltată și implementată pentru această lucrare de lice
 ֍ Baza de date - Cloud Firestore
 
 
-Aplicația este dezvoltată în limbajul *Java* cu ajutorul mediului de dezvoltare *Android Studio*, și este cuplată la o baza de date NoSQL, *Cloud Firestore*, care se actualizează concomitent cu acțiunile efectuate în cadrul aplicației. 
+Aplicația este dezvoltată în limbajul *Java* cu ajutorul mediului de dezvoltare *Android Studio*, și este cuplată la o bază de date NoSQL, *Cloud Firestore*, care se actualizează concomitent cu acțiunile efectuate în cadrul aplicației. 
 
 
 
