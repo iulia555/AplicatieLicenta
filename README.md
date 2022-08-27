@@ -58,9 +58,14 @@ Alte funcționalități disponibile: <br />
 Fereastra Plăți este locul în care pot fi inițiate transferuri bancare către diverși beneficiari și presupune un formular în care trebuie completate datele destinatarului, suma de plată și diverse detalii legate de descrierea plății. La bifarea căsuței „Plătește o factură de utilități”, aplicația îi pune la dispoziție utilizatorului o listă cu furnizorii de utilități disponibili deja în baza de date, scopul fiind ca acesta să nu mai fie nevoit să completeze manual datele de transfer.
 
 #### REPORTS PAGE
-+ Generarea unui grafic interactiv de tip pie-chart cu toate cheltuielile din istoricul de tranzactii organizate pe categorii principale
-+ Generarea graficului pe intreg istoricul sau doar pe o luna selectata
-+ Buton care genereaza o predictie pentru cheltuielile din luna urmatoare
+Este bine cunoscut faptul că populația majoritară din România nu dispune de cunoștințele de bază legate de educație financiară și de întocmirea adecvată a unui buget personal sau de familie. De aceea, în cadrul aplicației a fost întrevăzută o caracteristică specială care să vină în sprijinul utilizatorului în ceea ce privește gestionarea mai eficientă a bugetului. Astfel, aplicația de față se diferențiază de celelalte aplicații similare disponibile pe piață în prezent prin faptul că îi pune la dispoziţie utilizatorului rapoarte grafice lunare, construite per categorii, pe baza istoricului cheltuielilor, menite să îl ajute să deslușească mai facil maniera în care sunt distribuiți și cheltuiți banii săi de-a lungul timpului.
+
+La deschiderea ferestrei este reprezentat graficul general, care oferă o imagine de ansamblu pe baza întregului istoric de cheltuieli, iar mai apoi utilizatorul poate solicita vizualizarea graficelor aferente fiecărei luni în parte. Chiar daca acest ecran este destinat cheltuielilor, în josul ferestrei se regăsesc și încasările cu scopul de a putea pune în balanță raportul încasări-cheltuieli.
+
+֍ generarea unui grafic interactiv de tip PieChart cu toate cheltuielile din istoricul de tranzacții organizate pe categorii principale; <br />
+֍ generarea graficului pe întreg istoricul cheltuielilor sau doar pe luna selectată; <br />
+֍ la click pe o anumită categorie se pot vedea clar cheltuielile corespunzătoare. <br />
+
 
 ## Capturi de ecran din interfață
 #### Login page
