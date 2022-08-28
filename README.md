@@ -76,10 +76,10 @@ La deschiderea ferestrei este reprezentat graficul general, care oferă o imagin
 ![Screenshot](images/home1_1.jpeg)
 ![Screenshot](images/home2_1.jpeg)
 #### Transactions page
-
+![Screenshot](images/transactions_1.jpeg)
 #### Payments page
-
+![Screenshot](images/payments_1.jpeg)
 #### Reports page
-
+![Screenshot](images/reports_1.jpeg)
 
 
