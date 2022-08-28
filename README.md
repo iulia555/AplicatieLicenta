@@ -69,7 +69,7 @@ La deschiderea ferestrei este reprezentat graficul general, care oferă o imagin
 
 ## Capturi de ecran din interfață
 #### Login page
-
+![Screenshot](imagini/splashscreen.jpeg)
 #### Home page
 
 #### Transactions page
